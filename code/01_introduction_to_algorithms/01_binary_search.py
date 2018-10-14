@@ -26,3 +26,10 @@ print binary_search(my_list, 3) # => 1
 
 # 'None' means nil in Python. We use to indicate that the item wasn't found.
 print binary_search(my_list, -1) # => None
+
+# Can you implement this in the programming languages you know try Scala and R
+
+# What are the applications of binary search?
+# fast lookup of a dictionary/list
+# Making games such as guess the number
+# I can use a variant of it to search for a bases or motifs
